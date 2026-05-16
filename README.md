@@ -1,0 +1,2 @@
+# 02_PLANEACION_13_Introduccion_algoritmia
+Guia introduccion algoritmia
